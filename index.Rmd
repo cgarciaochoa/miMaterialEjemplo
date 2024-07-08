@@ -1,0 +1,34 @@
+---
+title: "Notas de ejemplo de materia tipo para el curso de programación"
+author: "Carlos Garcia"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Presentación
+
+Bienvenidos a este curso de programación. En este curso aprenderás a programar en R.Esta es la página principal del curso.
+
+## Objetivos del curso
+
+En el curso, usted aprenderá a programar en Rstudio y R y publicar sus páginas y notas en línea.
+
+## Usuarios finales del curso.
+
+Profesoras y profesores así como personal dedicado a la investigación que desea publicar sus notas de materias en línea, de manera gratuita o sus resultados de investigación para fines de exposición.
+
+# Contenido del curso
+
+Este es el contenido del curso
+
+## Tema 1
+
+Contenido del tema 1:
+
+## Tema 2
+
+Contenido del tema 2:
